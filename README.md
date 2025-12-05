@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Workshop</h3>
+  <h3>Demo</h3>
   <h1>
       Cybersecurity 02 - FancyText: Compromised Library Demo<br />
   </h1>
